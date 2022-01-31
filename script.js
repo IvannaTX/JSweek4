@@ -28,4 +28,48 @@ The other, when clicked, turns the body's background color white.
 Each of the background colors should be defined as class styles and when the buttons are 
 pushed the body's classList is updated to include the correct class for the background.  
 Create a single function that takes an input className and updates the body's classList to ONLY include that className*/
+/*Script on HTML */
+// document.getElementById("redbtn").onclick = function(){
+// 	document.classList("bg-red").style.backgroundColor ='red';
+// }
+// // function ChangeColor2() {
+// //     document.getElementById('whitebtn').style.background-color;
+// // }
+// document.getElementById("whitebtn").onclick = function(){
+// 	document.classList("bg-white").style.backgroundColor ='white';
+// }
 
+// var button = document.querySelector("button");
+
+// button.getElementsByClassName("click", function() {
+//     const backColor = document.body.style.backgroundColor;
+
+//     if (backColor === 'red') {
+//         document.body.style.backgroundColor = "white";
+//     }
+//     else {
+//         document.body.style.backgroundColor = "red";
+//     }
+// });
+// // var button = document.querySelector("button");
+
+// // button.addEventListener("click", function() {
+// //     const curColour = document.body.style.backgroundColor;
+
+// //     document.body.style.backgroundColor = curColour === 'red' ? 'white' : 'red';
+// // });
+
+// const redButton = document.querySelectorAll('[data-red]')
+// const whiteButton = document.querySelectorAll('[data-white]')
+
+// redButton.forEach(button => {
+//     button.addEventListener('click', () => {
+      
+//     })
+//   })
+  
+//   whiteButton.forEach(button => {
+//     button.addEventListener('click', () => {
+      
+//     })
+//   })
