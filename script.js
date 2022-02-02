@@ -84,5 +84,8 @@ Create a single function that takes an input className and updates the body's cl
 // //
 
 // function coinChange (minNumOfCoins, moneyAmount){
-    
+//     if (amount === 0){
+//         return 0
+//     }
+//     if (moneyAmount > 0)
 // }
