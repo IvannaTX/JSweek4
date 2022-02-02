@@ -80,4 +80,9 @@ Create a single function that takes an input className and updates the body's cl
 // Write a function to compute the fewest number of coins that you need to make up that amount. 
 // If that amount of money cannot be made up by any combination of the coins, return -1.
 
-//need a for loop to filter through coinc then create an array with lowest amount of coins?
+// //need a for loop to filter through coinc then create an array with lowest amount of coins?
+// //
+
+// function coinChange (minNumOfCoins, moneyAmount){
+    
+// }
